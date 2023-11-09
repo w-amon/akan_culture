@@ -1,5 +1,5 @@
 # Akan Community Cultural Naming
-##The Akan people of Ghana have a rich and complex naming tradition that reflects their deep cultural beliefs and practices. Akan names are not just labels; they are imbued with meaning and symbolism, and they play a significant role in shaping individuals' identities and destinies.
+The Akan people of Ghana have a rich and complex naming tradition that reflects their deep cultural beliefs and practices. Akan names are not just labels; they are imbued with meaning and symbolism, and they play a significant role in shaping individuals' identities and destinies.
 
 Day Names
 
@@ -24,3 +24,7 @@ Akan naming ceremonies, known as Edin Toa, are important social and spiritual ev
 Cultural Continuity
 
 Akan naming practices have persisted for centuries, reflecting the deep cultural values and traditions of the Akan people. They serve as a powerful reminder of the importance of family, community, and the connection to one's ancestors. Akan names continue to be given to children today, ensuring that this rich cultural tradition remains alive and well.
+
+
+# Akan Names according to the day of birth
+<img alt="Akan Names" src="./assets/images/Akan%20Names.png">

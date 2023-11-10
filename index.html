@@ -39,19 +39,19 @@
 
         <div class="wrapper">
             <div class="input-data">
-                <input name="day" id="day" type="number" required>
+                <input name="day" id="day" type="number" min="1" max="31" required>
                 <div class="underline"></div>
                 <label>Day of Birth</label>
             </div>
     
             <div class="input-data mt-3">
-                <input name="month" id="month" type="number" required>
+                <input name="month" id="month" type="number" min="1" max="12" required>
                 <div class="underline"></div>
                 <label>Month of Birth</label>
             </div>
     
             <div class="input-data mt-3">
-                <input name="year" id="year" type="number" required>
+                <input name="year" id="year" type="number" max="2023" min="1860" required>
                 <div class="underline"></div>
                 <label>Year of Birth</label>
             </div>
@@ -60,7 +60,7 @@
             <p class="text-center">Select Gender</p>
             <div class="radio-buttons d-flex">
                 <label class="custom-radio">
-                    <input type="radio" name="male">
+                    <input type="radio" name="male" name="gender" required>
                     <div class="radio-btn">
                         <div class="content">
                             <h6>Male</h6>
@@ -69,7 +69,7 @@
                 </label>
     
                 <label class="custom-radio">
-                    <input type="radio" name="female">
+                    <input type="radio" name="female" name="gender" required>
                     <div class="radio-btn">
                         <div class="content">
                             <h6>Female</h6>
@@ -78,7 +78,7 @@
                 </label>
             </div>
             <div class="text-center">
-                <button type="submit" class="btn btn-lg rounded-pill">Submit</button>
+                <button type="submit" class="btn btn-lg rounded-pill" onclick="AkanName()">Submit</button>
             </div>
         </div>
         </div>
